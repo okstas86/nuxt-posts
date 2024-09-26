@@ -25,6 +25,10 @@ bun install
 Start the development server on `http://localhost:3000`:
 
 ```bash
+#start json-server
+npm run start:json-server
+
+#start nuxt
 # npm
 npm run dev
 
